@@ -1,12 +1,12 @@
-#SpaceBNB
-![alt text](https://github.com/jackie-leary/spacebnb/main/spacebnb.png)
+# SpaceBNB
+![alt text](https://github.com/jackie-leary/spacebnb/images/main/spacebnb.png)
 
-###Overview
+### Overview
 A clone of AirBNB's landing page. 
 
-###Technologies
+### Technologies
 HTML5/CSS3/JavaScript(ES6) and Bootstrap. 
 
-###How to use
+### How to use
 Clone this repo and cd to spacebnb.
 open index.html
