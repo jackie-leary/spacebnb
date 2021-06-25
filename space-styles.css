@@ -1,0 +1,241 @@
+/* color palette */
+/*
+#1a1a2e;
+#16213e;
+#0f3460;
+#e94560;
+
+Fonts: Spartan and Lato
+7 Sections
+*/
+/* General */
+h1 {
+  font-family: 'Spartan';
+  font-size: 6rem;
+  letter-spacing: -6px;
+}
+
+h2 {
+  font-family: 'Spartan';
+  font-size: 1.5rem;
+
+}
+
+p {
+  font-family: 'Lato';
+
+}
+
+.container-fluid {
+  padding: 3% 5%;
+}
+/* Sec.1: Navbar and title */
+/* Navbar */
+
+.navbar-brand {
+  font-family: 'Spartan';
+  font-size: 150%;
+  font-weight: 200;
+  letter-spacing: -2px;
+  padding-left: 4%;
+  padding-top: 1%;
+}
+
+.nav-icon-color {
+  color: #e94560;
+}
+
+#nav-color {
+  color: #e94560;
+}
+
+#search-bar {
+  position: relative;
+  margin-left: 400px;
+}
+
+/* the actual search bar */
+.form-control {
+  font-family: 'Lato';
+  width: 1000px;
+}
+
+.navbar-collapse {
+  font-family: 'Lato';
+  padding-right: 4%;
+  padding-top: 1%;
+}
+
+.icon-padding {
+  padding-left: 15%;
+  font-size: 150%;
+}
+
+/* Title */
+
+#title {
+  background-image: url(images/wilf-hardy-swirl.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  color: white;
+}
+
+.go-beyond {
+  padding-top: 10%;
+  padding-left: 5%;
+
+}
+
+#go-go-power-rangers {
+  margin-bottom: -25px;
+}
+
+#andromeda-button {
+  margin-left: 6px;
+  font-family: 'Lato'
+}
+
+
+/* Sec.2: Planet Carousel  */
+.planets {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+/* Sec.3: Goldilocks Zone Experiences */
+#experiences {
+  background-color: black;
+  height: 700px;
+}
+
+#goldilocks-p {
+  color: white;
+  margin-top: 0;
+}
+
+#goldilocks-h {
+  margin-bottom: 0;
+  color: white;
+}
+
+#goldilocks-btn {
+  margin-left: 82%;
+}
+
+.top-two-pics {
+  margin-top: 30px;
+  margin-bottom: 13px;
+}
+
+.card-body {
+  padding: 5px;
+}
+
+.card {
+  border: 1px;
+}
+
+#pic-2 {
+  margin-left: 10px;
+}
+
+#pic-3 {
+  margin-left: 20px;
+}
+
+#pic-4 {
+  margin-left: 10px;
+  margin-top: 4px;
+}
+
+/* Section 4: Join Millions of Hosts */
+#join-hosts {
+  height: 450px;
+}
+
+/* Section 5: Inspiration for future getaways*/
+table {
+  line-height: 80%;
+  margin-top: 20px;
+}
+
+td {
+  padding-right: 200px;
+  padding-bottom: 70px;
+}
+
+td p {
+  margin: 1px;
+}
+
+.tab-content {
+  font-family: 'Lato';
+  color: black;
+}
+
+table a {
+  text-decoration: none;
+  color: black;
+}
+
+#future-getaways a:hover {
+  text-decoration: none;
+  color: #e94560;
+}
+
+.nav-link {
+  color: black;
+  font-family: 'Lato';
+  font-weight: bold;
+}
+
+/* Section 6: Contacts and Links */
+#contacts-and-links {
+  background-color: #f2f2f2;
+  border-top: 1px solid #DCDCDC;
+  font-family: 'Lato';
+}
+
+#contacts-and-links .container-fluid {
+  padding: 3% 5% 0;
+}
+
+#contacts-and-links ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#contacts-and-links li {
+  margin-bottom: 10px;
+}
+
+#contacts-and-links a {
+  text-decoration: none;
+  color: #666666;
+}
+
+#contacts-and-links a:hover {
+  color: #e94560;
+}
+
+
+/* Section 7: copyright and links at bottom */
+.left p {
+  display: inline-block;
+}
+
+#copyright {
+  font-size: 85%;
+}
+
+#copyright i {
+  font-size: 1rem;
+  padding: 0 10px;
+}
+
+/* .right {
+  position: absolute;
+  margin-left: 80%;
+} */
