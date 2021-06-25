@@ -1,5 +1,5 @@
 # SpaceBNB
-![alt text](https://github.com/jackie-leary/spacebnb/images/main/spacebnb.png)
+![alt text](https://github.com/jackie-leary/spacebnb/blob/main/images/spacebnb.PNG)
 
 ### Overview
 A clone of AirBNB's landing page. 
